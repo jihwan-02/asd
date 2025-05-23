@@ -45,7 +45,7 @@ if __name__ == "__main__":
     user = User(app)
 
     # 테스트: 유효한 일정
-    user.create_event("2025-05-20 14:00 회의")
+    user.create_event("2025-05-24 과제 제출하기")
 
     print("\n---\n")
 
