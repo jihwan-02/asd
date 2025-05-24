@@ -8,6 +8,8 @@
 유효한 입력일 경우 일정이 저장되고 완료 메시지를 사용자에게 반환하며,  
 유효하지 않으면 오류 메시지가 출력됩니다.
 
+![시퀸스 다이어그램](https://github.com/user-attachments/assets/fc90dc31-2dd9-4c46-80c8-88855acd0c07)
+
 - 언어: Python
 - 주요 파일: `calendar_app.py`
 - 구조: `User → CalendarApp → Storage`
